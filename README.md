@@ -1,5 +1,5 @@
-jQuery Events Tests
-===================
+jQuery Mobile Events Tests
+==========================
 
 Leveraging Raymond Camden's page events tests, this project adds touch and 
 vmouse events.  This makes it easy to visualize in what order events fire.  
